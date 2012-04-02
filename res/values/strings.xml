@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Welcome to the Ringer Manager Service!!</string>
+    <string name="app_name">RingerManagerService</string>
+    <string name="place_text">Current place:</string>
+    <string name="register">Register</string>
+    <string name="unregister">Unregister</string>
+    <string name="request_place">Request place</string>
+  <string name="country_prompt">Choose a Place</string>
+  <string name="btnClick">New Places</string>
+  <string name="seClick">Edit</string>
+  
+  <string name="thirdClick">Settings</string>
+    <string-array name="country_arrays">
+        <item>Normal Mode</item>
+        <item>Silent Mode</item>
+        <item>Vibration Mode</item>
+            </string-array>
+</resources>
